@@ -30,7 +30,7 @@ import tensorflow as tf
 event_num = 2
 droprate = 0.4
 vector_size = 128
-SPLIT = "../data/split/fold10"
+SPLIT = "../data/split/demo"
 
 
 def DNN():
