@@ -1,0 +1,23 @@
+Body part folder name
+Circulatory system fold0
+Digestive system fold1
+Endocrine system fold2
+Immune system fold3
+Integumentary system fold4
+Lymphatic system fold5
+Musculoskeletal system fold6
+Nervous system fold7
+Reproductive system fold8
+Respiratory system fold9
+Urinary system fold10
+Whole body fold11
+
+positive:negative folder name
+1:1 sr1
+1:2 sr2
+1:3 sr3
+1:4 sr4
+1:5 sr5
+
+
+Random splitting random

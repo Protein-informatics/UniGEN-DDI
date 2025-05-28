@@ -1,0 +1,6 @@
+# Release note for ogbl-dkp
+
+### v1
+
+Dec 20, 2023: Major release
+
