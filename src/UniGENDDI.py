@@ -154,7 +154,7 @@ def cross_validation():
             if g.G.has_edge(str(n1), str(n2)):
                 g.G.remove_edge(str(n1), str(n2))
 
-    # Obtain representation vectors by SDNE
+    
     print("Test Begin")
 
     model_n2v = loadmodel("../embeddings/n2v.csv")
