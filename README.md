@@ -10,3 +10,4 @@ UniGEN-DDI: Computing drug-drug interactions using a unified graph embedding net
 
 #Contact
 * If you are using this codes, please cite  doi: https://doi.org/10.1101/2024.09.30.615812
+* For any query, please contact Rukmankesh Mehra at rukmankesh@iitbhilai.ac.in
