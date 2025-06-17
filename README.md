@@ -8,4 +8,4 @@ UniGEN-DDI: Computing drug-drug interactions using a unified graph embedding net
 * Generate embeddings by running GraphSAGE.py and Node2Vec.py.
 * Run UniGENDDI.py for DDIs predictions.
 #Contact
-*If you are using this codes, please cite  doi: https://doi.org/10.1101/2024.09.30.615812
+* If you are using this codes, please cite  doi: https://doi.org/10.1101/2024.09.30.615812
